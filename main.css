@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+textarea {
+  font-size: 25px;
+}
+input {
+  font-size: 25px;
+}
